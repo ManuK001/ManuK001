@@ -9,8 +9,11 @@ Here are some things, I have been following for a while.
 	
 <a href="https://www.linkedin.com/in/manas-mohanty-524254ab/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manas1988&theme=onedark)](https://github.com/manas1988/github-profile-trophy)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=ManuK001&theme=onedark)](https://github.com/manas1988/github-profile-trophy)]
 
+Buy a coffee for my buddy instead of me.
+
+<a href="https://www.buymeacoffee.com/manukowsik"> <img src="https://img.icons8.com/ios-filled/50/null/coffee-to-go.png" width="50px" /> </a>&nbsp;&nbsp;&nbsp;
 
 
 ## 🔧 Tools
