@@ -4,7 +4,10 @@ Here are some things, I have been following for a while.
 
 - 🎇 I’m currently working as AI/ML Developer .
 - 🎰: and  currently learning how to deploy ml/dl  models into cloud/edge devices
-- 🌱 and  believe and hope in the usage of technologies for making earth a home for future generations of humans and other earthly entities which are part of eco-system and making this planet livable.
+- 🌱 and  believe and hope in the usage of technologies for making earth a home for future generations of humans and other earthly entities which are part of eco-system and making this planet livable
+
+
+<a href="https://www.teacheron.com/tutor-profile/gpU?r=gpU" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
 
 	
 <a href="https://www.linkedin.com/in/manas-mohanty-524254ab/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;
