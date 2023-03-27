@@ -5,7 +5,7 @@ Here are some things, I have been following for a while.
 - 🎇  works as AI/ML developer and Technology enthusiast
 - 🎰: and  currently learning how to deploy ml/dl  models into cloud and do vulernability testing
 - 🌱 and  believe and hope in the usage of technologies for making earth a home for earth's ecosystem
-<a href="https://www.teacheron.com/tutor-profile/gpU?r=gpU" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
+
 
 	
 [![trophy](https://github-profile-trophy.vercel.app/?username=ManuK001&theme=onedark)](https://github.com/manas1988/github-profile-trophy)]
